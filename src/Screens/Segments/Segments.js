@@ -37,7 +37,7 @@ const Segments = () => {
       link: "https://www.aveva.com/en/products/historian/",
     },
     ControlOutput: {
-      name: "UOS",
+      name: "UOC",
       link: "https://www.aveva.com/en/solutions/operations/unified-operations-center",
     },
   }
